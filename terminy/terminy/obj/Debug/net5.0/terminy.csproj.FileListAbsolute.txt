@@ -1,0 +1,16 @@
+D:\Ath\terminy\terminy\bin\Debug\net5.0\terminy.exe
+D:\Ath\terminy\terminy\bin\Debug\net5.0\terminy.deps.json
+D:\Ath\terminy\terminy\bin\Debug\net5.0\terminy.runtimeconfig.json
+D:\Ath\terminy\terminy\bin\Debug\net5.0\terminy.runtimeconfig.dev.json
+D:\Ath\terminy\terminy\bin\Debug\net5.0\terminy.dll
+D:\Ath\terminy\terminy\bin\Debug\net5.0\ref\terminy.dll
+D:\Ath\terminy\terminy\bin\Debug\net5.0\terminy.pdb
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.csprojAssemblyReference.cache
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.AssemblyInfoInputs.cache
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.AssemblyInfo.cs
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.csproj.CoreCompileInputs.cache
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.dll
+D:\Ath\terminy\terminy\obj\Debug\net5.0\ref\terminy.dll
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.pdb
+D:\Ath\terminy\terminy\obj\Debug\net5.0\terminy.genruntimeconfig.cache
